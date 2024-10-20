@@ -1,0 +1,42 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB Job-2
+Abaqus 2023.HF2
+Queued for QSD/85
+"QSD" license request queued for the License Server on 127.0.0.1. 
+Total time in queue: 30 seconds.
+Position in the queue: 1
+Successfully checked out QSD/85 from DSLS server 127.0.0.1
+Successfully checked out QXT/85 from DSLS server 127.0.0.1
+Successfully checked out QPL for 4 cpu(s)
+Successfully checked out QPU/shared from DSLS server 127.0.0.1
+Abaqus License Manager checked out the following licenses:
+Abaqus/Standard checked out 85 tokens from DSLS server 127.0.0.1.
+<15 out of 100 licenses remain available>.
+Begin Analysis Input File Processor
+2023/10/27 16:28:51
+Run pre.exe
+
+ ***WARNING: Interactive messaging has been requested for this analysis run, 
+             but initialization of the messaging system has failed.  Therefore 
+             no messages will be sent to Abaqus/CAE for this phase of the 
+             analysis.
+2023/10/27 16:28:58
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+2023/10/27 16:28:58
+Run standard.exe
+
+ ***WARNING: Interactive messaging has been requested for this analysis run, 
+             but initialization of the messaging system has failed.  Therefore 
+             no messages will be sent to Abaqus/CAE for this phase of the 
+             analysis.
+USING ACCELERATOR PLATFORM_CUDA
+2023/10/27 16:29:56
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+2023/10/27 16:29:58
+Run SMASimUtility.exe
+2023/10/27 16:29:58
+End SIM Wrap-up
+Abaqus JOB Job-2 COMPLETED
+Socket error: [Errno 10061] ???????????,?????

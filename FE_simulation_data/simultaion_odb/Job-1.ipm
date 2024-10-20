@@ -1,0 +1,5 @@
+<?xml version="1.0"?><msgwrapper><Started><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Job-1</jobName><clientHost type="string">DESKTOP-KAN6SCS</clientHost><handle type="integer">0</handle></Started>
+<Warning><message type="string">THE ABSOLUTE ZERO TEMPERATURE HAS NOT BEEN SPECIFIED FOR COMPUTING INTERNAL THERMAL ENERGY USING THE ABSOLUTE ZERO PARAMETER ON THE *PHYSICAL CONSTANTS OPTION. A DEFAULT VALUE OF 0.0000 WILL BE ASSUMED.</message><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Job-1</jobName></Warning>
+<Warning><message type="string">Boundary conditions are specified on inactive dof greater than 6 at 11371 nodes. The nodes have been identified in node set WarnNodeBCInactiveDofAbove6.</message><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Job-1</jobName></Warning>
+<Odb_File><file type="string">C:\WMT\FEE_data\Job-1.odb</file><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Job-1</jobName></Odb_File>
+<Completed><message type="string">Analysis phase complete</message><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Job-1</jobName></Completed>

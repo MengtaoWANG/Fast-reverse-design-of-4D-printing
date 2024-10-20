@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/WMT/model_weights_T_CNN_batchsize/model_weights_iteration160.ckpt"
+all_model_checkpoint_paths: "D:/WMT/model_weights_T_CNN_batchsize/model_weights_iteration156.ckpt"
+all_model_checkpoint_paths: "D:/WMT/model_weights_T_CNN_batchsize/model_weights_iteration157.ckpt"
+all_model_checkpoint_paths: "D:/WMT/model_weights_T_CNN_batchsize/model_weights_iteration158.ckpt"
+all_model_checkpoint_paths: "D:/WMT/model_weights_T_CNN_batchsize/model_weights_iteration159.ckpt"
+all_model_checkpoint_paths: "D:/WMT/model_weights_T_CNN_batchsize/model_weights_iteration160.ckpt"

@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:/Desktop/FEE_python/model_weights_improve_dloss13_6000/model_weights_iteration49.ckpt"
+all_model_checkpoint_paths: "E:/Desktop/FEE_python/model_weights_improve_dloss13_6000/model_weights_iteration45.ckpt"
+all_model_checkpoint_paths: "E:/Desktop/FEE_python/model_weights_improve_dloss13_6000/model_weights_iteration46.ckpt"
+all_model_checkpoint_paths: "E:/Desktop/FEE_python/model_weights_improve_dloss13_6000/model_weights_iteration47.ckpt"
+all_model_checkpoint_paths: "E:/Desktop/FEE_python/model_weights_improve_dloss13_6000/model_weights_iteration48.ckpt"
+all_model_checkpoint_paths: "E:/Desktop/FEE_python/model_weights_improve_dloss13_6000/model_weights_iteration49.ckpt"
