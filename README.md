@@ -1,1 +1,1 @@
-This is a project for the rapid reverse design of 4D-printed voxelized composite structures.
+This is a project for the fast reverse design of 4D-printed voxelized composite structures.
